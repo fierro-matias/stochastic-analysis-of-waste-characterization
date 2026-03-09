@@ -109,7 +109,9 @@ Researchers may extend the database by adding new literature measurements to the
 
 ## Citation
 
-If you use this dataset in academic work, please cite the associated publication and the repository release (Zenodo DOI will be added after publication).
+If you use this dataset in academic work, please cite the associated publication and the repository release available through the Zenodo record:
+
+https://doi.org/10.5281/zenodo.18928774
 
 Please also cite the original literature sources when using individual measurements from the database.
 
@@ -157,7 +159,7 @@ The reference index allows users to:
 2. Verify the context and methodology of the reported values.
 3. Properly cite the original literature when reusing individual measurements.
 
-Users of this repository should cite both the original literature sources listed in `references_index.csv` and the repository itself when using the compiled dataset or derived probability distributions.
+Users of this repository should cite both the original literature sources listed in `references_index.csv` and the Zenodo record of this repository when using the compiled dataset or derived probability distributions.
 
 ---
 
