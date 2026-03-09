@@ -45,6 +45,8 @@ The dataset contains three main categories of waste properties:
 
 For each property, probability density functions are provided for both **main waste groups** and **representative waste mixtures**.
 
+Proximate Analysis (PA) and Elemental Analysis (EA) data are reported as provided in the original sources and subsequently normalized to a common representative basis to ensure comparability.
+
 ---
 
 ## Repository structure
