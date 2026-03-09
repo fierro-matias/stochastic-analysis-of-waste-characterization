@@ -1,0 +1,25 @@
+cff-version: 1.0.0
+title: "Waste Characterization and Stochastic Analysis"
+message: "If you use this dataset or the associated scripts, please cite this repository."
+type: dataset
+
+authors:
+  - family-names: Fierro Rivas
+    given-names: Matías Alonso
+    affiliation: Technical University of Munich
+    orcid: https://orcid.org/0000-0003-2373-1597
+
+repository-code: https://github.com/fierro-matias/stochastic-analysis-of-waste-characterization/
+
+keywords:
+  - municipal solid waste
+  - waste characterization
+  - thermophysical properties
+  - stochastic analysis
+  - Monte Carlo simulation
+  - waste composition
+  - uncertainty quantification
+
+code license: CC-BY-4.0
+
+date-released: 2026
