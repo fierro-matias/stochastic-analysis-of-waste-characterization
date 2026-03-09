@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18928774.svg)](https://doi.org/10.5281/zenodo.18928774)
 # Waste Characterization and Stochastic Analysis
 
 This repository contains a curated database and stochastic characterization of thermophysical and compositional properties of municipal solid waste (MSW). The dataset compiles literature-derived measurements and provides probability density functions (PDFs) for key waste properties obtained through hierarchical statistical aggregation.
