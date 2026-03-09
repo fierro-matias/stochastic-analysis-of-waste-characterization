@@ -116,9 +116,9 @@ Please also cite the original literature sources when using individual measureme
 
 Code: see `LICENSE-CODE`.
 
-The dataset in this repository compiles measurements reported in the scientific literature.  
-Original measurements remain subject to the copyright and licensing terms of the respective publications.
 
+
+The dataset in this repository compiles measurements reported in the scientific literature, public technical reports, and manufacturer datasheets.  
 The database structure, aggregation methodology, and derived probability distributions provided here are released under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
 
 Users of this dataset must cite both:
