@@ -126,6 +126,37 @@ Users of this dataset must cite both:
 2. This repository when using the compiled database or derived probability distributions.
 
 ---
+## Literature Sources and Reference Index
+
+All measurements contained in the database were extracted from previously published scientific literature, technical reports, and reference books.
+
+To ensure transparency and traceability, the repository includes a reference index file:
+
+```
+data/raw/references_index.csv
+```
+
+This file lists all literature sources used in the compilation of the dataset. Each reference entry includes:
+
+- **ID** – unique identifier used to link database entries to the original source
+- **Citation** – full bibliographic citation of the publication
+- **DOI** – Digital Object Identifier (when available)
+- **Web** – direct link to the publication or document
+- **Year** – publication year
+- **Country** – country where the measurements were reported or conducted
+- **Continent** – geographic region of the study
+- **Type of reference** – classification of the source (e.g., scientific publication or technical report)
+- **Ref Paper / Ref Organic / Ref Plastic** – indicators showing which waste material groups the reference contributes data for
+
+The reference index allows users to:
+
+1. Trace each measurement back to its original publication.
+2. Verify the context and methodology of the reported values.
+3. Properly cite the original literature when reusing individual measurements.
+
+Users of this repository should cite both the original literature sources listed in `references_index.csv` and the repository itself when using the compiled dataset or derived probability distributions.
+
+---
 
 ## Reproducibility
 
