@@ -12,6 +12,7 @@ The objective of this repository is to provide a reproducible framework for the 
 The repository includes:
 
 - A structured database of waste characterization data (proximate analysis, elemental composition, and thermophysical properties).
+- Waste categories are based on data availability, origin, expected material composition, and typical use, defining **subgroups** inside a **main group** category. 
 - Stochastic distributions for waste **main groups** (Paper, Organic, Plastic, and Inert).
 - Derived distributions for representative **waste mixtures** (Baseline, S1–S3).
 - Precomputed probability density functions (PDFs) generated using large-scale Monte Carlo sampling (10⁶ realizations). 
@@ -48,6 +49,7 @@ For each property, probability density functions are provided for both **main wa
 
 Proximate Analysis (PA) and Elemental Analysis (EA) data are reported as provided in the original sources and subsequently normalized to a common representative basis to ensure comparability.
 
+HHV is usually experimentally reported along with PA and/or EA, and analyzed independently.
 ---
 
 ## Repository structure
