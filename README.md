@@ -50,6 +50,7 @@ For each property, probability density functions are provided for both **main wa
 Proximate Analysis (PA) and Elemental Analysis (EA) data are reported as provided in the original sources and subsequently normalized to a common representative basis to ensure comparability.
 
 HHV is usually experimentally reported along with PA and/or EA, and analyzed independently.
+
 ---
 
 ## Repository structure
